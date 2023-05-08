@@ -1,2 +1,1 @@
-# Rock
-Rock Paper Scissor Game in Python.
+This code is a simple implementation of the classic "Rock, Paper, Scissors" game written in Python. The code utilizes a list to store images of the game options and nested if statements to handle game logic. The random module generates the computer's move, which is then compared to the user's input to determine the winner. The game also displays an image for each possible move, which is shown when the user selects their move and when the computer makes its move.
